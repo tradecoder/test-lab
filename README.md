@@ -1,2 +1,2 @@
 # test-lab
-Just testing anonymous codes for making solutions
+Just testing anonymous codes for providing solutions
