@@ -9,3 +9,11 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```powershell
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
+
+```javascript
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+
+```windows
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
