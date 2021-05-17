@@ -14,6 +14,6 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 
-```cmd
+```commandline
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
